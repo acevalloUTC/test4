@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 head
 bryan
 body
 alex
 foot
+=======
+//prueba
+>>>>>>> master
